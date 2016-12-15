@@ -1,0 +1,19 @@
+{
+  "name": "bodewell-node",
+  "version": "0.0.1",
+  "description": "Bodewell system monitor resource node",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richRemer/bodewell-node.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/bodewell-node/issues"
+  },
+  "homepage": "https://github.com/richRemer/bodewell-node#readme"
+}
